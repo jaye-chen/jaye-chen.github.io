@@ -1,6 +1,6 @@
 ---
 layout: post
-category: poem
+category: poems
 ---
 
 In this room we are ageless. We are four and lying blind drunk on this black sofa, cuddling like centenarians on their deathbeds, and we are here on some school trip and I am refusing to believe many things at once. I am not beautiful, in the way that bodies don’t have gravity, in the way nighttime refuses to shave off unwanted streetlights. I am not wanted, in the way toothbrushes are not wanted because you already have one, in the way I am blind to all the ways of wanting, popsicles, movies, garage rock, coffee. I am not going anywhere or becoming anyone. I am starting to be unhappy in the way girls are unhappy. 
