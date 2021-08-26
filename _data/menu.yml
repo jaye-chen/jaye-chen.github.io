@@ -16,7 +16,7 @@ entries:
       show_more_url: example2-archive.html
  
   - title: poems
-      post_list:
+    post_list:
       category: poems
       limit: 300
       show_more: true
