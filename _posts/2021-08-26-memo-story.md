@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: hr example
+category: story
 ---
 They wanted me to write about other things, but this is foremost a story of us. I was sitting three tables (metallic, dim and blue) away from you while you talked about pterodactyls with the Golden boys, the boys Eternal. I gazed at you in the off-putting way that the lazy cow in our textbook grazed on grass, I was five and I already knew that I’d do nothing with my life. But I was above you, you see, I was friends with everyone who laughed at your stubby hands and wispy hair, about how you never brushed or tucked your clothes in, about your sloppy, dirt-filled sock and shoe. I was yet to realize that I was myopic, so I imagined you beautiful nevertheless. 
 
