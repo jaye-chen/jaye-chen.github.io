@@ -5,15 +5,9 @@ entries:
 
   - title: rss
     url: feed.xml
-    
-  - title: all posts
-    post_list:
-      limit: 300
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
+   
 
-  - title: posts by category
+  - title: stories
     post_list:
       category: story
       limit: 300
@@ -21,12 +15,14 @@ entries:
       show_more_text: See more posts...
       show_more_url: example2-archive.html
  
-    post_list:
+  - title: poems
+      post_list:
       category: poems
       limit: 300
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
+
 
     post_list:
       category: essay
@@ -35,9 +31,17 @@ entries:
       show_more_text: See more posts...
       show_more_url: example2-archive.html
 
+  - title: others
     post_list:
       category: other
       limit: 300
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
+
+  - title: all posts
+    post_list:
+      limit: 300
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
