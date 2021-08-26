@@ -15,7 +15,29 @@ entries:
 
   - title: posts by category
     post_list:
-      category: example2
+      category: story
+      limit: 300
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: example2-archive.html
+ 
+    post_list:
+      category: poems
+      limit: 300
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: example2-archive.html
+
+    post_list:
+      category: essay
+      limit: 300
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: example2-archive.html
+
+    post_list:
+      category: other
+      limit: 300
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
