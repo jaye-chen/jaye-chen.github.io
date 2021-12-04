@@ -7,38 +7,6 @@ entries:
     url: feed.xml
    
 
-  - title: stories
-    post_list:
-      category: story
-      limit: 300
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
- 
-  - title: poems
-    post_list:
-      category: poems
-      limit: 300
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
-
-    post_list:
-      category: essay
-      limit: 300
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
-  - title: others
-    post_list:
-      category: other
-      limit: 300
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
   - title: all posts
     post_list:
       limit: 300
