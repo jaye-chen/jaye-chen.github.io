@@ -14,3 +14,4 @@ Where are you going next, and where should I be? Where will I find you next, in 
 
 Where will someone drive by at night, when we are giddy and beneath a streetlight? Someone holy and just and baser than us, asking with all sincerity: where to, ladies?
 
+Note: First appeared at [DIAGRAM](https://www.thediagram.com/).
