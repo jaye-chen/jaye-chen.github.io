@@ -6,6 +6,11 @@ entries:
   - title: rss
     url: feed.xml
    
+  - title: info & prev projects
+    entries:
+      - title: writer at yale university.
+      - title: babel between us (as Fel)
+        url: https://babelbetween.us/#/
 
   - title: all posts
     post_list:
