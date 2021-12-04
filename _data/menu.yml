@@ -8,8 +8,8 @@ entries:
    
   - title: info & prev projects
     entries:
-      - writer at yale university
-      - email: yourhammergirl [at] gmail [dot] com
+      - title: writer at yale university
+      - title: yourhammergirl [at] gmail [dot] com
       - title: babel between us (as Fel)
         url: https://babelbetween.us/#/
 
