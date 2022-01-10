@@ -12,10 +12,11 @@ entries:
       - title: yourhammergirl [at] gmail [dot] com
       - title: babel between us (as Fel)
         url: https://babelbetween.us/#/
-
+        
   - title: all posts
     post_list:
-      limit: 300
+      limit: 30
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
+
